@@ -1,3 +1,3 @@
 # AulasGit
  Aula alterando repositorios
-Aulas em vídeo com Gustavo Guanabara (Curso em Vídeo) e Digital Inovation One - DIO.
+*Fontes das aulas em vídeo* - Gustavo Guanabara **(Curso em Vídeo)** e Digital Inovation One - **(DIO)**.
